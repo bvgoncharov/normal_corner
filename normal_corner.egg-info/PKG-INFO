@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: normal-corner
+Version: 0.0.1
+Summary: Analytical corner plot for Gaussian distributions
+Home-page: https://github.com/bvgoncharov/normal_corner
+Author: Boris Goncharov
+Author-email: goncharov.boris@physics.msu.ru
+License: UNKNOWN
+Description: # normal_corner
+        Corner plot module for Gaussian distributions, takes in covariance and mean matrices
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
