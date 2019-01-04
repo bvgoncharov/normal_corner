@@ -1,5 +1,4 @@
-
-rmal_corner
+# normal_corner
 
 This code produces a corner plot for analytical multi-dimensional Gaussian distribution, using covariance matrix and mean matrix. It also allows us to plot another distribution, with reduced dimensionality, on top. I.e. a distribution for a case where we fixed one variable.
 
