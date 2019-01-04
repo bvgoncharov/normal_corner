@@ -1,8 +1,0 @@
-setup.py
-normal_corner/__init__.py
-normal_corner/normal_corner.py
-normal_corner.egg-info/PKG-INFO
-normal_corner.egg-info/SOURCES.txt
-normal_corner.egg-info/dependency_links.txt
-normal_corner.egg-info/requires.txt
-normal_corner.egg-info/top_level.txt
