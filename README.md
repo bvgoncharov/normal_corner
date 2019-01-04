@@ -4,6 +4,13 @@ This code produces a corner plot for analytical multi-dimensional Gaussian distr
 
 See demo.py for examples.
 
+## Installation
+
+Option 1:
+ - `pip install normal_corner`
+Option 2:
+ - `python setup.py install` in cloned directory
+
 ## Documentation
 
 The main component is function normal\_corner inside a normal\_corner package.
