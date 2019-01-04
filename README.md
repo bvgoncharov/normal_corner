@@ -1,8 +1,13 @@
-# normal_corner
+
+rmal_corner
 
 This code produces a corner plot for analytical multi-dimensional Gaussian distribution, using covariance matrix and mean matrix. It also allows us to plot another distribution, with reduced dimensionality, on top. I.e. a distribution for a case where we fixed one variable.
 
-See demo.py for examples.
+## Examples
+
+![Analytical Gaussian corner plot](https://github.com/bvgoncharov/normal_corner/blob/master/example_1.png "Analytical Gaussian corner plot")
+
+See demo.py for usage examples.
 
 ## Installation
 
@@ -35,3 +40,4 @@ Below is a description of inputs and outputs.
  - `diagnostic` : an option to print out some diagnostic messages, _bool_.
  - `color` : color for a main Normal distribution, _str_.
  - `color2` : color for a secondary Normal distribution, with reduced dimensionality, _str_.
+
