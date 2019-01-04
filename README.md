@@ -8,6 +8,7 @@ See demo.py for examples.
 
 Option 1:
  - `pip install normal_corner`
+
 Option 2:
  - `python setup.py install` in cloned directory
 
