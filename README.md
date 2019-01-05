@@ -20,7 +20,14 @@ Option 2:
 
 ## Documentation
 
-The main component is function normal\_corner inside a normal\_corner package.
+The main component is a normal\_corner function inside a normal\_corner package.
+
+```python
+def normal_corner(covm,mean,varlabels,fixedvarindex=None,fixedvarvalue=None,
+           covm2=None,mean2=None,scale_factor=3,diagnostic=False,
+           color='red',color2='blue'):
+```
+
 Below is a description of inputs and outputs.
 
 #### Output:
