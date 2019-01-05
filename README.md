@@ -4,9 +4,11 @@ This code produces a corner plot for analytical multi-dimensional Gaussian distr
 
 ## Examples
 
+It's as simple as `figure_1 = normal_corner.normal_corner(covariance_matrix,mean_vector,variable_labels)`!
+
 ![Analytical Gaussian corner plot](https://github.com/bvgoncharov/normal_corner/blob/master/example_1.png "Analytical Gaussian corner plot")
 
-See demo.py for usage examples.
+See demo.py for detailed usage examples.
 
 ## Installation
 
