@@ -25,7 +25,7 @@ The main component is a normal\_corner function inside a normal\_corner package.
 ```python
 def normal_corner(covm,mean,varlabels,fixedvarindex=None,fixedvarvalue=None,
            covm2=None,mean2=None,scale_factor=3,diagnostic=False,
-           color='red',color2='blue'):
+           color='red',color2='blue', fig=None, **fig_kw):
 ```
 
 Below is a description of inputs and outputs.
@@ -48,4 +48,6 @@ Below is a description of inputs and outputs.
  - `diagnostic` : an option to print out some diagnostic messages, _bool_.
  - `color` : color for a main Normal distribution, _str_.
  - `color2` : color for a secondary Normal distribution, with reduced dimensionality, _str_.
+ - `fig` : Matplotlib figure to plot to, possibly output of corner.corner to plot on top of MCMC corner plot
+ - additional keywords are passed to figure().
 
